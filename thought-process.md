@@ -15,5 +15,5 @@
    I have used docker to package this project by using Dockerfile and docker-compose.
 
    You can run this project by navigating to project directory and run following commands:
-   `docker build -t verve-service:latest .
-   docker-compose up`
+   `docker build -t verve-service:latest .`
+   `docker-compose up`
