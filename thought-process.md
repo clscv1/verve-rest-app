@@ -16,5 +16,4 @@
 
    You can run this project by navigating to project directory and run following commands:
    `docker build -t verve-service:latest .`
-
    `docker-compose up`
